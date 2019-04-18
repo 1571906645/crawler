@@ -203,4 +203,5 @@ if __name__ == '__main__':
     a = user('用户名', '密码')
     # print(a.userid)
     # a.collection()
+    # a.author()
     # save_gif(id=73315187, idpath='Author/')
